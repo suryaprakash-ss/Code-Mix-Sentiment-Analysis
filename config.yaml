@@ -1,0 +1,5 @@
+model:
+  name: "cardiffnlp/twitter-xlm-roberta-base-sentiment"
+preprocessing:
+  remove_urls: true
+  emoji_to_text: true
